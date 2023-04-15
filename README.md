@@ -1,4 +1,4 @@
 # MyBlog
 Change directories by typing 
-###`cd iblogs`
-### `python manage.py runserver`
+###run`cd iblogs` in terminal
+### run `python manage.py runserver` in terminal
